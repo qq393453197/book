@@ -1,0 +1,4 @@
+baseURL = 'https://yxt.dev.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes = 'hermit-v2'
