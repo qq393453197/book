@@ -1,4 +1,8 @@
-[submodule "themes/hermit-v2"]
-	path = themes/hermit-v2
+[submodule "yxt-book/themes/hermit-v2"]
+	path = yxt-book/themes/hermit-v2
+	url = https://github.com/1bl4z3r/hermit-V2
+	branch = main
+[submodule "yxt-book/themes/hermit-v2/themes/hermit-v2"]
+	path = yxt-book/themes/hermit-v2/themes/hermit-v2
 	url = https://github.com/1bl4z3r/hermit-V2
 	branch = main
